@@ -6,7 +6,7 @@
 Today I Learned
 3일차 배운것
 
-##기술통계 (Pandas Profiling)
+## 기술통계 (Pandas Profiling)
 * 파이썬상에서 명령어 입력 후 프로그램을 다운로드 받아야함
 * 런타임 다시 시작하기
 *
