@@ -15,21 +15,38 @@ Today I Learned
 pandas_profiling 전체를 임포트를 안하고 거기에서
  profile report만 가져오는 이유는 성능 문제 인가요?
 
-* 사실 하드웨어가 매년 엄청난 성능 향상이 있는 현대에와서는 크게 의미가 없지만, 
+-> 사실 하드웨어가 매년 엄청난 성능 향상이 있는 현대에와서는 크게 의미가 없지만, 
 	파이썬의 처음 발표일이 1991년이란걸 감안해보면... 
 	왜 필요 했을지 바로 알 수 있는 부분이 있습니다.
 
 ## 단어 :
 왜도값
+* 분포의 비대칭의 정도, 즉 분포가 기울어진 방향과 그 기울어진 정도를 나타내는 척도이다.
 
-정규분포 <br\> 
-<br\> missing cells(결측치) 와 결측퍼센테이지
+특잇값
+* 
+이상치
+* 
+편차
+* 
+분산
+* 
+정규분포
+
+missing cells(결측치) 와 결측퍼센테이지
+
 추세선
-EDA (탐색적데이터분석) Exploratory Data Analysis
+
+EDA (탐색적데이터분석) Exploratory Data Analysis :
+
 Duplicate rows(중복값)
+
 distinct valus = > 중복을 제외한 유일 값 #Pandas 에서는 unique 값
+
 coefficient of variantion (CV)
+
 kurtosis : 얼마나 뾰족한가.
+
 correlation : 상관계수, 상관관계 (통계학에서 상관계수란?) 
 	데이터에서 1에 상응한다면 그것은 자기상관
 
@@ -38,7 +55,8 @@ correlation : 상관계수, 상관관계 (통계학에서 상관계수란?)
 hue
 
 
-디버깅 : 프로그래밍에서 잘못된 부분을 찾아 고치는 것. 
+디버깅
+* 프로그래밍에서 잘못된 부분을 찾아 고치는 것. 
 
 
 추상화된 도구 라는 궁극적인 의미?
