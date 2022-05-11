@@ -22,7 +22,6 @@ pandas_profiling 전체를 임포트를 안하고 거기에서
 ## 단어 :
 왜도값
 
-
 정규분포 <br\> 
 <br\> missing cells(결측치) 와 결측퍼센테이지
 추세선
