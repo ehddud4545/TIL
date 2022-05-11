@@ -20,9 +20,9 @@ pandas_profiling 전체를 임포트를 안하고 거기에서
 	왜 필요 했을지 바로 알 수 있는 부분이 있습니다.
 
 ## 단어 :
-왜도값<br\>
-정규분포<br\> 
-missing cells(결측치) 와 결측퍼센테이지
+왜도값 <br\>
+정규분포 <br\> 
+<br\> missing cells(결측치) 와 결측퍼센테이지
 추세선
 EDA (탐색적데이터분석) Exploratory Data Analysis
 Duplicate rows(중복값)
